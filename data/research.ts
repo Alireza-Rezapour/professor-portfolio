@@ -181,12 +181,11 @@ export const researchData: ResearchPageData = {
     label: "چه چیزی منتشر کرده‌ام؟",
     title: "مقالات منتخب",
     description: "منتخبی از مقالات علمی، از جدیدترین به قدیمی‌ترین.",
-    // Placeholder titles/venues: replace with real publications. "#" marks placeholder URLs.
     items: [
       {
         id: "pub1",
         title: "Optimization of Supply Chain Networks Under Uncertainty",
-        authors: ["محمدباقر جمالی", "محمد احمدی", "سارا کریمی"],
+        authors: ["جواد زارعی", "محمد احمدی", "سارا کریمی"],
         year: 2026,
         journal: "International Journal of Production Economics",
         articleUrl: "#",
@@ -195,7 +194,7 @@ export const researchData: ResearchPageData = {
       {
         id: "pub2",
         title: "A Data-Driven Framework for Multi-Criteria Decision Making",
-        authors: ["محمدباقر جمالی", "مهدی حسینی"],
+        authors: ["جواد زارعی", "مهدی حسینی"],
         year: 2025,
         journal: "Expert Systems with Applications",
         articleUrl: "#",
@@ -204,7 +203,7 @@ export const researchData: ResearchPageData = {
       {
         id: "pub3",
         title: "Robust Optimization Approaches for Dynamic Production Planning",
-        authors: ["محمدباقر جمالی", "..."],
+        authors: ["جواد زارعی", "..."],
         year: 2024,
         journal: "Computers & Industrial Engineering",
         articleUrl: "#",
@@ -212,7 +211,7 @@ export const researchData: ResearchPageData = {
       {
         id: "pub4",
         title: "Decision Support for Resource Allocation in Complex Systems",
-        authors: ["محمدباقر جمالی", "..."],
+        authors: ["جواد زارعی", "..."],
         year: 2023,
         journal: "Applied Soft Computing",
         articleUrl: "#",
