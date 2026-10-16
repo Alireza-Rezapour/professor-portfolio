@@ -3,9 +3,8 @@ import "./globals.css";
 import { Navbar } from "./(main-app)/components/navbar/navbar";
 
 export const metadata: Metadata = {
-  title: "دکتر محمدباقر جمالی | استادیار مهندسی صنایع",
-  description:
-    "وب‌سایت شخصی دکتر محمدباقر جمالی؛ پژوهش، پروژه‌ها، مقالات و تدریس.",
+  title: "دکتر جواد زارعی | استادیار مهندسی صنایع",
+  description: "وب‌سایت شخصی دکتر جواد زارعی؛ پژوهش، پروژه‌ها، مقالات و تدریس.",
 };
 
 export default function RootLayout({
